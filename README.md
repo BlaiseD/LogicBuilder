@@ -17,16 +17,16 @@ BPS Logic Builder defines forms, queries, and business logic for Microsft platfr
 ![](CoursesGrid.PNG?raw=true)
 <br><br>
 
-# Configure
+## Configure
 ![](ConfigureClassFunctionsHelper.PNG?raw=true)
 <br><br>
 
-# Edit
+## Edit
 ![](Editing.PNG?raw=true)
 ![](EditFormSettingsBeingEdited.PNG?raw=true)
 <br><br>
 
-# Code
+## Code
 ![](Vs2017.PNG?raw=true)
 ![](VSCodeProjectExplorer.PNG?raw=true)
 
