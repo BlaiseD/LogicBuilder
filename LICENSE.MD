@@ -1,6 +1,6 @@
 # BPS Logic Builder
 
-This package is part of [BPS Logic Builder](https://bpolicysolutions.com/pages/Products.aspx) suite.
+This package is part of [BPS Logic Builder](https://bpolicysolutions.com/pages/Products.aspx).
 
 ## License
 
