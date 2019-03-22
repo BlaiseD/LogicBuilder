@@ -11,7 +11,7 @@ BPS Logic Builder defines forms, queries, and business logic for Microsft platfr
 **If your version of Visio is 64-bit then be sure to get the [64-bit](//www.microsoft.com/store/apps/9PBQ81MNWHLX) version instead.**
 * In the Logic Builder client select **Help** > **Contents**. 
 * Select **Getting Started** at the top of the treeview.
-* Follow the instructions to download the sample applications (C#, Angular 7 and flow diagrams).
+* Follow the instructions to download the [sample applications](https://github.com/BlaiseD/LogicBuilder.Samples) (C#, Angular 7 and flow diagrams).
 * Follow the instructions to build and deploy the rules.
 
 ![](CoursesGrid.PNG?raw=true)
