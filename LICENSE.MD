@@ -4,6 +4,6 @@ This package is part of [BPS Logic Builder](https://bpolicysolutions.com/pages/P
 
 ## License
 
-This is commercial software. To use it, you need to agree to the [**Single End User License Agreement for BPS Logic Builder**](https://bpolicysolutions.com/pages/BPSLogicBuilderSEULA.aspx). If you do not own a commercial license.
+This is commercial software. To use it, you need to agree to the [**Single End User License Agreement for BPS Logic Builder**](https://bpolicysolutions.com/pages/BPSLogicBuilderSEULA.aspx).
 
 *Copyright © Business Policy Solutions 2018. All rights reserved.*
